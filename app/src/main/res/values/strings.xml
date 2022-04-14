@@ -5,4 +5,8 @@
     <string name="yes">YES</string>
     <string name="question_article">Вам нравится эта статья</string>
     <string name="no">No</string>
+    <string name="yes_messege">Like This</string>
+    <string name="no_messege">THANKS FOR ANSWER</string>
+    <string name="title">title</string>
+    <string name="article">article</string>
 </resources>
